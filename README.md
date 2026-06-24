@@ -1,4 +1,4 @@
-# Gest-o-de-Finan-as-Pessoais
+# Gestão de Finanças pessoais
  Caderno Temático: Gestão de Finanças Pessoais
 
 Este repositório foi criado como parte do meu estudo em tecnologia, utilizando o NotebookLM para organizar e aprofundar o tema **Gestão de Finanças Pessoais**.  
@@ -43,10 +43,3 @@ Durante o processo, elaborei e testei diferentes prompts:
 - “Liste vantagens e riscos de investir em renda fixa.”  
 - “Crie um plano de emergência financeira para uma família de 4 pessoas.”  
 - “Resuma em tópicos os principais conceitos de educação financeira.”
-
--
-
-
-
-Este repositório consolida meu aprendizado sobre **Gestão de Finanças Pessoais**, demonstrando não apenas o conteúdo estudado, mas também o processo de engenharia de prompts e curadoria de fontes.  
-Ele serve como guia prático e base para futuras revisões e aprofundamentos no tema.
